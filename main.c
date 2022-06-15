@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* main _ main function to simple shell
+* main - main function to simple shell
 * @argc: argument count
 * @argv: argument vector
 * Return: 0 on success
